@@ -1,0 +1,1 @@
+# anilist-auto-liker
